@@ -287,4 +287,3 @@ int main(int argc, char* argv[]) {
         std::fprintf(stderr, "Error: %s\n", ex.what());
         return EXIT_FAILURE;
     }
-}
