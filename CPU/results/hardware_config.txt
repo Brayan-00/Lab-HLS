@@ -1,0 +1,15 @@
+=== Equipo ===
+jetson-183
+aarch64
+=== Compilador ===
+g++ (Ubuntu/Linaro 7.5.0-3ubuntu1~18.04) 7.5.0
+=== Modo de potencia ===
+NVPM WARN: fan mode is not set!
+NV Power Mode: MAXN
+0
+=== Nucleos activos ===
+0-3
+=== Frecuencia CPU0 (kHz) ===
+1479000
+=== Fecha ===
+mar 10 nov 21:13:45 CST 2026

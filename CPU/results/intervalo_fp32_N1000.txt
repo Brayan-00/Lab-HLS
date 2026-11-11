@@ -1,0 +1,8 @@
+precision=fp32
+n=1000
+reps=100000
+trials=5
+llamadas_totales=500000
+duracion_proceso_s=15.074695524
+muestras=143
+codigo_salida=0
